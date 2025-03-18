@@ -31,7 +31,7 @@ Atualmente, atuo como **Desenvolvedor de Software** na **Leiaute Propaganda**, o
 ---
 
 ### 🎓 **Formação Acadêmica** 📚
-- **📌 Engenharia de Software** – Descomplica Faculdade Digital (2022 - 2027)  
+- **📌 Engenharia de Software** – Descomplica Faculdade Digital (2022 - 2026)  
 - **📌 Técnico em Informática** – Colégio Estadual De Aplicação Anísio Teixeira (2017 - 2020)  
 
 ---
